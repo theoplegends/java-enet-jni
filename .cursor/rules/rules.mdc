@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Your rule content
+
+- Always use camelCase for java code.
+- Always use gradle for java imports.
+- Dont create pseudocode or placeholders.
+- Always use the group op.legends for java projects.
+- Dont add comments to code.
+- Always use cmake list for c code.
