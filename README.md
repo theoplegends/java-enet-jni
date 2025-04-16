@@ -1,3 +1,5 @@
+Cursor was used in the making of this :) basically a test/showcase project
+
 # Java ENet JNI Wrapper
 
 This project provides Java bindings for the ENet reliable UDP networking library through JNI.
